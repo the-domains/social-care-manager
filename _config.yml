@@ -1,7 +1,7 @@
 name: Social Care Manager
 favicon: null
-layout_spectrum: 0.7226150103379041
-typography_spectrum: 0.449494743719697
+layout_spectrum: 0.93334
+typography_spectrum: 0.3929
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.7945382352918386
+  brandStrength: 0.875
   lightness: 0.4833315599244088
-  saturation: 0.9670634162612259
+  saturation: 0.875
   rhythmicContrast: 0.1540621668100357
 purpose: []
